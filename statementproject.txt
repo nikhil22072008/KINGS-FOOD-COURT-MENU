@@ -1,0 +1,38 @@
+
+**# Project Statement**
+
+**## Problem Statement**
+
+Sometimes it can be difficult to keep track of the food we want to order and the total price.
+
+This project is made to help users see the food menu, choose food items, add them to the order and check the total amount.
+
+**## Scope**
+
+This project can be used for a small food court or restaurant to take simple food orders.
+
+**## Target Users**
+
+- Students
+
+- Customers
+
+- Food court workers
+
+**## High-Level Features**
+
+- Show food menu
+
+- Select food
+
+- Add food to order
+
+- See the order
+
+- Calculate total price
+
+- Checkout
+
+- Confirm order
+
+- Cancel order
